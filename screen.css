@@ -70,6 +70,12 @@ h1{
   text-underline-position: below;
 
 }
+.project img {
+  width: 200px;
+  height: 200px;
+
+
+}
 .legal{
   font-size: 10px;
   line-height: 2;
